@@ -1,6 +1,6 @@
 # Air-Passengers-PowerBI
+<img src="https://raw.githubusercontent.com/schmidj/Air-Passengers-PowerBI/main/Screenshot_Dashboard1.png" width="800">
 
-<img src= Air-Passengers-PowerBI/Screenshot_Dashboard1.png>
 
 ## Data Source
 The dataset used in this Power BI dashboard comes from **International Civil Aviation Organization (ICAO), via World Bank (2025)**.
